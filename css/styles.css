@@ -83,16 +83,13 @@ letter-spacing: 0.32px;
     font-style: normal 
 }
 
-.main-address-list-first{
-    color:#434455;
-}
-
 .main-address-list-item{
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: 1.50;
 letter-spacing: 0.32px;
+color:#434455;
 }
 
 
