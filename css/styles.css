@@ -1,0 +1,111 @@
+body{
+font-family: 'Roboto', sans-serif;
+color:#434455;
+background-color:transparent;
+}
+
+a{
+text-decoration: none;
+}
+
+ul{
+list-style-type: none;
+}
+
+h1{
+color: #FFF;
+text-align: center;
+font-size: 56px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.071;
+letter-spacing: 1.12px;
+}
+
+h2{
+color: #2E2F42;
+text-align: center;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.11;
+letter-spacing: 0.72px;
+text-transform: capitalize;
+}
+
+h3{
+color: #2E2F42;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 1.20;
+letter-spacing: 0.4px;
+}
+
+p{
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.50;
+letter-spacing: 0.32px;
+}
+
+.logo{
+    color: #2E2F42;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.16;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+
+.logo-item{
+    color: #4D5AE5;
+}
+
+.nav-list-item{
+    color: #2E2F42;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 1.50;
+letter-spacing: 0.32px;
+}
+
+.mail-address-list-item{
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.50;
+letter-spacing: 0.32px;
+}
+
+.section-hero-button{
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.50;
+    letter-spacing: 0.64px;
+}
+
+.logo-footer{
+    color: #F4F4FD;
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.16;
+letter-spacing: 0.54px;
+text-transform: uppercase;
+}
+
+.logo-footer-item{
+    color: #4D5AE5;
+}
+
+.footer-text{
+    color: #F4F4FD;
+}
