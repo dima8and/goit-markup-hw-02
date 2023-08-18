@@ -1,3 +1,4 @@
+/* atribut */
 body{
 font-family: 'Roboto', sans-serif;
 color:#434455;
@@ -55,6 +56,10 @@ line-height: 1.50;
 letter-spacing: 0.32px;
 }
 
+/* class */
+
+/* header */
+
 .logo{
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;
@@ -96,6 +101,9 @@ line-height: 1.50;
 letter-spacing: 0.32px;
 }
 
+/* main */
+
+/* section hero */
 
 .section-hero{
     background-color:#2e2f42;
@@ -117,6 +125,7 @@ letter-spacing: 0.32px;
     background-color:#404BBF;
 }
 
+/* section 3 */
 .section-team{
     background-color: #F4F4FD;
 }
@@ -124,6 +133,8 @@ letter-spacing: 0.32px;
 .section-team-item{
     background-color: #FFFFFF;
 }
+
+/* footer */
 
 .page-footer{
     background-color:#2e2f42;
