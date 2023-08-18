@@ -71,7 +71,7 @@ letter-spacing: 0.32px;
 }
 
 .nav-list-item{
-color: #2E2F42;
+color:#2E2F42;
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
@@ -84,6 +84,7 @@ letter-spacing: 0.32px;
 }
 
 .main-address-list-item{
+color:#434455;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
