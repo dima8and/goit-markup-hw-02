@@ -92,6 +92,13 @@ letter-spacing: 0.32px;
 color:#434455;
 }
 
+.nav-list-item{
+    color:#2e2f42;
+}
+
+.main-address-list-item{
+color:#434455;
+}
 
 .section-hero{
     background-color:#2e2f42;
