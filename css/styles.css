@@ -70,8 +70,10 @@ letter-spacing: 0.32px;
     color: #2E2F42;
 }
 
-.nav-list-item{
+.nav-list{
 color:#2e2f42;
+}
+.nav-list-item{
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
@@ -79,12 +81,11 @@ line-height: 1.50;
 letter-spacing: 0.32px;
 }
 
-.main-address{
-    font-style: normal 
+.main-address-list{
+color:#434455;
 }
 
 .main-address-list-item{
-color:#434455;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
