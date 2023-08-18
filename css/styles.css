@@ -5,13 +5,13 @@ background-color:#FFFFFF;
 }
 
 a{
-    color:#2e2f42;
+color:#2e2f42;
 text-decoration: none;
 }
 
 a:hover,
 a:focus{
-    color:#404bbf;
+color:#404bbf;
 }
 
 ul{
@@ -84,6 +84,7 @@ letter-spacing: 0.32px;
 }
 
 .main-address-list-item{
+color:#434455;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
