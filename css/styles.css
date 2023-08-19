@@ -7,6 +7,7 @@ background-color:#FFFFFF;
 
 a{
 text-decoration: none;
+color:#434455;
 }
 
 a:hover,
@@ -90,7 +91,7 @@ letter-spacing: 0.32px;
 
 .main-address{
 font-style: normal;
-color:#434455;
+
 }
 
 .main-address-list-item{
